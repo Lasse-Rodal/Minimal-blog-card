@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="{https://your-demo-link.your-domain}">
+    <a href="https://lasse-rodal.github.io/Minimal-blog-card/">
       Live Demo
     </a>
     <span> | </span>
-    <a href="{https://your-url-to-the-solution}">
+    <a href="https://github.com/Lasse-Rodal/Minimal-blog-card">
       Solution
     </a>
     <span> | </span>
@@ -59,8 +59,8 @@ create a web page that displays a blog card.
 
 ### Links
 
-- [Solution URL:](https://github.com/Lasse-Rodal/Time-Tracking-Dashboard)
-- [Live Site URL:](https://lasse-rodal.github.io/Time-Tracking-Dashboard/)
+- [Solution URL:](https://github.com/Lasse-Rodal/Minimal-blog-card)
+- [Live Site URL:](https://lasse-rodal.github.io/Minimal-blog-card/)
 
 ## My process
 
